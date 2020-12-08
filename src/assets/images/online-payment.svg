@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="103" height="103" viewBox="0 0 103 103">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 80 80">
+      <image width="80" height="80" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAL4SURBVHhe7ZxNrtQwEIRnxR04AVdAsGODBNyAa4BYI/EjseAanAIk/i7Bkr8DIBawgq6BRnaTvJS7k3GS6U8q6VnT7bJLmcxoFL9DkiRJkiRJYrkjein6LvrVSfDGGm6LNsVD0dCGegpr2gS48rDgH6J7osuipbAhWeB9X/RThNc3cSW+EmGxCG9pyvCgMR6I8DrWtnq+ibDYJa88pQwPGgNrwetY2+qZ2sycqBfjydSsgqUW+l707s+f/1AvxpOpWQVLLfTtX5WoF+PJ1MzOJdEz0RdRudAhKXa8JKX/lKetKfuGhD0/FSEDN5hgaPIhKXa8JKX/lKetKfsu0hORm68iTHL1OOJQ47k59T3wmgj1uBLdtJoCTw9Dj3ugp6eii2kD6sV4MjUWT09FF9MG1IvxZGosnp6KLqYj9Pge6Omp6GI6Qt4DF0C9GE+mxuLpqehi2oB6MZ5MjcXTU9HFdIS8BwbJe+ACqBfjydRYPD0VXUwbUC/Gk6mxeHoqupg2oF6MJ1Nj8fRUdDFtQL0YT6bG4ump6GLagHoxnkyNxdNT0cW0AfViPJkai6enootpA+rFeDI1Fk9PRRfTBtSL8WRqLJ6eii6mDagX48nUWDw9FV1MG1AvxpOpsXh6KtgJ8MzJZ5HWh0wbKP2mPMs6rPWWaApm3gthJ/gk0lq2Zw5aPG3tR9EUWuuGnWAowLVrVQHi7bClEBHeTdEUWu8mPMHGyQCDZIBBMsAgGWCQDDBIBhgkAwySAQbJAIPMHqB9OmDv49kDtE8H7H08e4DnRgYYJAMMEt6/HnPAI//nxnUR9h465tBy0GaveiRyg2NOOKnDHPXam7Dnx6LQUa+luSLCYj8cR22gB72Y42y5IUIIr4+jNtCDXsxxttwVIYQXx1Eb6EEv5jhb8H8VEMLz46gN9KD3FP+bYbVEQoiEvxsib8PI2383RD4IIh9AuyHyVSTyFWiT4Hc2bPgUKn+S2g3Y1NBml9AbUZIkSZIkSZIkSZL8z+HwGyW+dCTdG4dSAAAAAElFTkSuQmCC"/>
+    </pattern>
+  </defs>
+  <rect id="icons8-online-payment-with-a-credit-card-80" width="103" height="103" rx="51.5" fill="url(#pattern)"/>
+</svg>
